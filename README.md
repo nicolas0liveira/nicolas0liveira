@@ -29,15 +29,17 @@ My name is Nícolas Oliveira, I'm from Brazil and a canyoning lover!
 <!--![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge)-->
 
 #### My favorite hobbies
-[![Canyoning](https://img.shields.io/badge/Canyoning_--_short_doc_from_Chapada_Diamantina_--_Bahia_--_Brazil-006272?logo=inkscape&logoColor=white&style=for-the-badge)](https://youtu.be/tnMtXEkhZLE?si=lCvuaU9qYmAEycs-&t=502)
+[![Canyoning](https://img.shields.io/badge/Canyoning_--_short_doc_from_Chapada_Diamantina_--_Bahia_--_Brazil-006272?logo=youtubekids&logoColor=white&style=for-the-badge)](https://youtu.be/tnMtXEkhZLE?si=lCvuaU9qYmAEycs-&t=502)
+
 [![Caving](https://img.shields.io/badge/Caving_--_@espeleogrupodebrasilia-F0D722?logo=instagram&logoColor=white&style=for-the-badge)](https://egb.org.br)
+[![Diving](https://img.shields.io/badge/Diving-1B72BE?logo=argo&logoColor=white&style=for-the-badge)](https://egb.org.br)
 
 
 <!--
 **nicolas0liveira/nicolas0liveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[![Canyoning](https://img.shields.io/badge/Canyoning_--_short_doc_from_Chapada_Diamantina_--_Bahia_--_Brazil-006272?logo=inkscape&logoColor=white&style=for-the-badge)](https://youtu.be/tnMtXEkhZLE?si=lCvuaU9qYmAEycs-&t=502)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
