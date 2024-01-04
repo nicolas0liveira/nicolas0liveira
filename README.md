@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 My name is Nícolas Oliveira, I'm from Brazil and a canyoning lover!
+
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/n%C3%ADcolas-oliveira-49700b10/)
 
 
