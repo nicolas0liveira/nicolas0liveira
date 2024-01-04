@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 My name is Nícolas Oliveira, I'm from Brazil and a canyoning lover!
+[![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/n%C3%ADcolas-oliveira-49700b10/)
+
 
 - 🔭 I’m currently working on a personal project named rumoagro, with some friends 
 - 🌱 I’m currently learning lowcode with nodered
@@ -13,11 +15,8 @@ My name is Nícolas Oliveira, I'm from Brazil and a canyoning lover!
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -28,6 +27,9 @@ My name is Nícolas Oliveira, I'm from Brazil and a canyoning lover!
 ![Kanban](https://img.shields.io/badge/Kanban-71a8cf?style=for-the-badge)
 <!--![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge)-->
 
+#### My favorite hobbies
+[![Canyoning](https://img.shields.io/badge/Canyoning_--_short_doc_from_Chapada_Diamantina_--_Bahia_--_Brazil-006272?logo=inkscape&logoColor=white&style=for-the-badge)](https://youtu.be/tnMtXEkhZLE?si=lCvuaU9qYmAEycs-&t=502)
+[![Caving](https://img.shields.io/badge/Caving_--_@espeleogrupodebrasilia-F0D722?logo=instagram&logoColor=white&style=for-the-badge)](https://egb.org.br)
 
 
 <!--
