@@ -3,7 +3,7 @@
 ### Hi there 👋
 My name is Nícolas Oliveira, I'm from Brazil and a canyoning lover!
 
-- 🔭 I’m currently working on a personal project named rumoagro 
+- 🔭 I’m currently working on a personal project named rumoagro, with some friends 
 - 🌱 I’m currently learning lowcode with nodered
 - 👯 I’m looking to collaborate on teaching
 - 🤔 I’m looking for help with some frontends
