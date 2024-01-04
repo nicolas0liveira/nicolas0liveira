@@ -32,7 +32,7 @@ My name is Nícolas Oliveira, I'm from Brazil and a canyoning lover!
 [![Canyoning](https://img.shields.io/badge/Canyoning_--_short_doc_from_Chapada_Diamantina_--_Bahia_--_Brazil-006272?logo=youtubekids&logoColor=white&style=for-the-badge)](https://youtu.be/tnMtXEkhZLE?si=lCvuaU9qYmAEycs-&t=502)
 
 [![Caving](https://img.shields.io/badge/Caving_--_@espeleogrupodebrasilia-F0D722?logo=instagram&logoColor=white&style=for-the-badge)](https://egb.org.br)
-[![Diving](https://img.shields.io/badge/Diving-1B72BE?logo=argo&logoColor=white&style=for-the-badge)](https://)
+[![Diving](https://img.shields.io/badge/Diving-1B72BE?logo=chainguard&logoColor=white&style=for-the-badge)](https://)
 
 
 <!--
