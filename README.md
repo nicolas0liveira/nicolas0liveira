@@ -6,18 +6,24 @@ My name is Nícolas Oliveira, I'm from Brazil and a canyoning lover!
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/n%C3%ADcolas-oliveira-49700b10/)
 
 
-- 🔭 I’m currently working on a personal project named rumoagro, with some friends 
-- 🌱 I’m currently learning lowcode with nodered
+- 🔭 I’m currently working on a personal project named rumoagro, with some friends
+- 🌱 I’m currently learning more about llms and agentic
 - 👯 I’m looking to collaborate on teaching
 - 🤔 I’m looking for help with some frontends
 - 💬 Feel free to ask me about anything
 
 #### Favorite tech stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-3776AB?style=for-the-badge&logo=dask&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
