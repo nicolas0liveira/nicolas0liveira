@@ -7,7 +7,7 @@ My name is Nícolas Oliveira, I'm from Brazil and a canyoning lover!
 
 
 - 🔭 I’m currently working on a personal project named rumoagro, with some friends
-- 🌱 I’m currently learning more about llms and agentic
+- 🌱 I’m currently learning more about slms, llms and agentic
 - 👯 I’m looking to collaborate on teaching
 - 🤔 I’m looking for help with some frontends
 - 💬 Feel free to ask me about anything
@@ -21,8 +21,6 @@ My name is Nícolas Oliveira, I'm from Brazil and a canyoning lover!
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
